@@ -1,7 +1,7 @@
 ---
 title: Uprace 2021 và 21 ngày chạy bộ
 author: Trung Nguyễn
-date: 2021-11-21 14:10:00 +0700
+date: 2021-11-21 14:10:00 +0800
 categories: [Life]
 tags: [life]
 render_with_liquid: false
