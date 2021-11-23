@@ -1,9 +1,9 @@
 ---
-title: TEST
-author: Cotes Chung
-date: 2021-11-16 14:10:00 +0700
-categories: [Blogging, Tutorial]
-tags: [writing]
+title: Mình đã chuyển hướng từ Developer sang Product Manager như thế nào?
+author: Trung Nguyễn
+date: 2021-11-23 14:10:00 +0700
+categories: [Work, Career]
+tags: [career, work]
 render_with_liquid: false
 ---
 
