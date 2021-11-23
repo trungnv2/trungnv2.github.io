@@ -7,7 +7,7 @@ tags: [typography]
 math: true
 mermaid: true
 image:
-  src: /commons/devices-mockup.png
+  src: /_BBB5085.jpeg
   width: 800
   height: 500
 ---
