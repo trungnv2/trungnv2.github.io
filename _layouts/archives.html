@@ -20,7 +20,7 @@ layout: page
       <div>
         {% capture this_day %}{{ post.date | date: "%d" }}{% endcapture %}
         {% capture _mth_df %}{{ site.data.locales[lang].date_format.post.archive_month }}{% endcapture %}
-        {% capture this_month %}{{ post.date | date: _mth_df }}{% endcapture %}
+        {% capture this_month %}{{ post.date | date: %B" }}{% endcapture %}
         <span class="date day">{{ this_day }}</span>
         <span class="date month small text-muted">{% include no-zero-date.html date_str=this_month %}</span>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>

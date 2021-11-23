@@ -1,5 +1,5 @@
 ---
-title: About
+title: Giới thiệu
 icon: fas fa-info-circle
 order: 4
 ---
@@ -9,6 +9,7 @@ order: 4
 
 ![Desktop View](/assets/img/self.jpeg){: width="972" height="589" style="max-width: 200px" .right}
 Hi mọi người!
+
 Mình là Trung Nguyễn, hiện đang sinh sống và làm việc ở thành phố Hồ Chí Minh. Gắn bó với [Zalo](https://zalo.careers/) (1 sản phẩm OTT với hơn 50 triệu users sử dụng hàng tháng với sứ mệnh kết nối mọi người) hơn 7 năm, bắt đầu từ vị trí iOS developer, hiện nay mình đã chuyển qua mảng product (phát triển sản phẩm) với mong muốn đem lại trải nghiệm tốt nhất cho người dùng
 
 Blog này lập ra với mục đích chia sẻ những trải nghiệm và góc nhìn cá nhân xoay quanh các vấn đề, tình huống xảy ra trong công việc, cuộc sống thường ngày của mình. Mình nghĩ  3. Cho mọi người biết mục đích bạn viết blog. Tại sao bạn viết blog này? Động lực nào khiến bạn viết blog?
