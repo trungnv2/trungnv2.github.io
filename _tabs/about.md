@@ -7,7 +7,7 @@ order: 4
 
 > “Pursue excellence and success will follow you” - **Rancho**
 
-![Desktop View](/assets/img/self.jpeg){: width="972" height="589" style="max-width: 200px" .right}
+![Desktop View](/assets/img/family.JPG){: width="972" height="589" style="max-width: 200px" .right}
 Hi mọi người!
 
 Mình là Trung Nguyễn, hiện đang sinh sống và làm việc ở thành phố Hồ Chí Minh. Gắn bó với [Zalo](https://zalo.careers/) (1 sản phẩm OTT với hơn 50 triệu users sử dụng hàng tháng với sứ mệnh kết nối mọi người) hơn 7 năm, bắt đầu từ vị trí iOS developer, hiện nay mình đã chuyển qua mảng Product (phát triển sản phẩm). Mọi người có thể theo dõi bước ngoặt khi mình quyết định rẽ hướng sang Product ở [đây](https://trungnv2.me/posts/chuyen-huong-sang-product/).
