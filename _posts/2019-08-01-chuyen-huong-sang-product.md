@@ -24,7 +24,7 @@ Ngay từ lúc chưa ra trường mình đã xác định định hướng của
 _Đây là mindmap mình input các dữ liệu vào để suy nghĩ và ra quyết định tại thời điểm đó_
 
 ## Lý do mình quyết định chuyển hướng
-- Đầu tiên là trong 5 năm ở vị trí engineer thì mình cũng đã tự hình thành nên product mindset
+- Đầu tiên là trong 5 năm ở vị trí engineer thì mình cũng đã tự hình thành nên product mindset trong quá trình làm việc. Trước khi bắt tay vào làm 1 tính năng, request gì thì mình thường đặt câu hỏi Why? với Product: vì sao phải làm tính năng này? Nó mang lại giá trị gì ? Ngoài ra trong khi implement tính năng mà mình thấy có hướng tiếp cận nào hợp lí hơn, thì mặc dù có phải tốn thêm cost về code thì mình vẫn chủ động suggest với product. Đôi khi gặp những vấn đề về flow, hay cần discuss về improve tính năng thì mình đều tham gia và đóng góp ý kiến k chỉ từ khía cạnh tech, mà còn dưới góc nhìn của end user mong muốn như thế nào, và mình thật sự hứng thú.
 - Mình hình dung PM như 1 ổ cắm điện, có nhiệm vụ kết nối tất cả các bên lại (design, UXR, content, dev, QC ...). Việc connect với mọi người không phải là trở ngại lớn với mình, ngược lại mình còn khá thoải mái khi phối hợp các bên làm trơn tru hơn, tăng hiệu quả công việc với các buổi kickstart, trao đổi với server, product, dev team khác ... tại thời điểm đó.
 
 - Một yếu tố khác thuộc về tính cách, sau khi tìm hiểu sâu về Product thì mình thấy khá là hứng thú, mình xem đó như một challenge trong sự nghiệp của mình, và có thể bước ra khỏi vùng an toàn (comfort zone) hiện tại
