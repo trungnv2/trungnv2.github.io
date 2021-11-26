@@ -1,7 +1,7 @@
 ---
 title: Mình đã chuyển hướng từ Software Engineer sang Product Manager như thế nào?
 author: Trung Nguyễn
-date: 2021-11-23 14:10:00 +0700
+date: 2021-11-26 14:10:00 +0700
 categories: [Work, Career]
 tags: [career, work]
 render_with_liquid: false
