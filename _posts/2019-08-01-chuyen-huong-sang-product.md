@@ -60,8 +60,8 @@ Tương tự nhiên kiến thức, những thứ thuộc về mindset hay thói 
 - **Bring RIGHT solution for RIGHT problem**: ở đây mình chỉ muốn đề cập tới mindset luôn suy nghĩ để tìm ra đúng vấn đề, luôn đặt câu hỏi để validate lại vấn đề, tìm các dẫn chứng về số liệu, uxr..., tránh việc bị cuốn vào các feedback, problem không phải painpoint thực sự của user sẽ rất nguy hiểm và tiêu tốn resources; sau cùng mới brainstorm đúng giải pháp, tránh đi vòng vèo, cồng kềnh nhưng lại không giải quyết được trọng tâm cốt lõi vấn đề. Còn về HOW, thì nó là kỹ năng cần liên tục trau dồi và học hỏi, tích lũy kinh nghiệm để làm tốt được, và nó cũng là một topic rất rộng.
 - Cần phải **suy nghĩ theo chiều rộng và phải có cái nhìn tổng quan hơn**: Khi gặp một vấn đề cần suy nghĩ luôn phải có cái nhìn bao quát, lùi một bước để xác định rootcause vấn đề, cũng như các yếu tố xung quanh, ảnh hưởng tới vấn đề đó.
 - **Less is more** (Ít mà chất): thể hiện qua hai khía cạnh
- - 1. Ít tính năng trong một sản phẩm: một sản phẩm tốt là sản phẩm đáp ứng đủ nhu cầu, giải quyết đủ painpoint của user, đúng đối tượng khách hàng và có solution hợp lí.
- - 2. Tinh giản về mặt UX/items trong một tính năng, flow. Định luật Hick: Càng nhiều sự lựa chọn, thì thời gian ra quyết định của user càng lớn
+  - Ít tính năng trong một sản phẩm: một sản phẩm tốt là sản phẩm đáp ứng đủ nhu cầu, giải quyết đủ painpoint của user, đúng đối tượng khách hàng và có solution hợp lí.
+  - Tinh giản về mặt UX/items trong một tính năng, flow. Định luật Hick: Càng nhiều sự lựa chọn, thì thời gian ra quyết định của user càng lớn
 - **Hành động nhanh, learn nhanh, có thể là fail nhanh**:khi mình hành động càng nhanh, thì mình càng sớm có dữ liệu để học hỏi, đánh giá, và cải thiện để nâng cấp trải nghiệm phục vụ user tốt hơn. Hoặc đơn giản là khi hành động càng nhanh thì mình nhận thất bại càng sớm, nhưng thất bại đó sẽ tiết kiệm, sẽ nhanh chóng và mình phải rút kinh nghiệm được từ nó để tránh lặp lại sau này.
 
 ### Về quản ý thời gian, công việc hiệu quả
