@@ -4,7 +4,7 @@ author: Trung Nguyễn
 date: 2021-11-26 14:10:00 +0700
 categories: [Work, Career]
 tags: [career, work]
-render_with_liquid: false
+comments: true
 image:
   src: /assets/img/posts/se_move_pm/cover.jpeg
   width: 800
