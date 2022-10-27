@@ -1,0 +1,4 @@
+1. Thêm file vào folder _post/xxxx.md
+2. Edit ngày tháng, content ....
+3. Thêm hình vào folder : assets/img/posts/... -> embed vào bài
+4. Bật sourcetree lên -> commit các file changes -> sau đó refresh web live
