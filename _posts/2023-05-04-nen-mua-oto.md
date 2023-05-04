@@ -11,7 +11,7 @@ Một câu hỏi mà mình hay được họ hàng, bạn bè hỏi là tại sa
 ## Câu trả lời ngắn mình thường là: tại mình chưa cảm thấy cần thiết
 ## Còn câu trả lời dài là:
 
-Đầu tiên mình không phải là người làm việc theo cảm xúc - theo kiểu thích là mua. Trước khi quyết định việc gì (lớn) mình luôn list mind map, cân nhắc, dựa vào data, fact, lý do, hiện trạng rõ ràng - lý do là mình là 1 Blue chính hiệu (analytical personality type [nguồn](https://www.glurecruit.co.uk/advice-center/employer/employee-retention/) - có dịp mình sẽ chia sẻ kỹ hơn về các loại tính cách này Red, Green, Blue, Yellow).
+Đầu tiên mình không phải là người làm việc theo cảm xúc - theo kiểu thích là mua. Trước khi quyết định việc gì (lớn) mình luôn list mind map, cân nhắc, dựa vào data, fact, lý do, hiện trạng rõ ràng - lý do là mình là 1 Blue chính hiệu (analytical personality type [nguồn](https://www.glurecruit.co.uk/advice-center/employer/employee-retention/red-blue-green-yellow-personality-type/#:~:text=Blues%20are%20deep%20thinkers%2C%20analytical,with%20good%20time%20management%20skills) - có dịp mình sẽ chia sẻ kỹ hơn về các loại tính cách này Red, Green, Blue, Yellow).
 
 Vì thế câu hỏi quan trọng nhất phải bắt nguồn từ WHY? Tại sao mình nên mua ô tô? Nó sẽ mang lại GIÁ TRỊ gì cho mình?
 
@@ -29,10 +29,12 @@ Nói tới lợi ích, giá trị thì cũng phải nói tới chi phí, đánh 
 - **Chi phí cơ hội**: hiện tại thì mình vẫn ưu tiên giữa vốn phân bổ tài sản hơn là chi phí vào mua xe (1 bên là sinh lời, 1 bên là tiêu sản - 2 vector ngược nhau). Ưu tiên hiện tại của mình vẫn là tập trung vào đầu tư tài chính. Tất nhiên là do hiện tại mình vẫn chưa đủ điều kiện để vừa mua xe vừa mua đất, mua nhà. Nếu đủ cả 2 thì không việc gì phải bàn
 - 1 số lý do phụ khác là dù mình có xe nhưng khi **cần đi nhậu, hay đi vô thành phố có việc giờ cao điểm thì cũng không sử dụng được**
 
+## Tóm lại:
 Vì thế nên tổng hợp lại hết tất cả yếu tố trên (tất nhiên là với riêng case của mình, ưu tiên của mình, không có ý phân tích cho ai cả) thì short-term hiện tại mình vẫn thấy việc sở hữu xe hơi với mình là chưa cần thiết. Tương lai có thể 1 số điều kiện, hoàn cảnh thay đổi thì sẽ đánh giá lại sau.
 Cuối cùng ý mình muốn nói ở đây vẫn là việc mình vẫn nên luôn tự nhận thức được giá trị những thứ mình muốn nó mang lại, cũng như lý do, cách phân tích việc vì sao mình NÊN (hoặc không nên) làm 1 việc gì đó có impact lớn.
 
-## PS: câu trả lời chứa đựng sự thật là: mình đã mua ô tô rồi, không chỉ một chiếc, mà là hơn chục chiếc lận - bộ sưu tập của mình (và Thor) phải kể tới như Bugatti Chiron, Lamborghini Aventador, Audi S5 Couple, Nissan GT-R Nismo ...
+## PS: 
+Câu trả lời chứa đựng sự thật là: mình đã mua ô tô rồi, không chỉ một chiếc, mà là hơn chục chiếc lận - bộ sưu tập của mình (và Thor) phải kể tới như Bugatti Chiron, Lamborghini Aventador, Audi S5 Couple, Nissan GT-R Nismo ...
 
 
 ![Window shadow](/assets/img/posts/chuyen_mua_oto/img.jpeg){: .shadow width="1548" height="864" style="max-width: 90%" }
