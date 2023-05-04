@@ -1,5 +1,5 @@
 ---
-title: Chuyện mua ô tô
+title: Nên mua ô tô?
 author: Trung Nguyễn
 date: 2023-05-04 21:28:00 +0700
 categories: [Life]
