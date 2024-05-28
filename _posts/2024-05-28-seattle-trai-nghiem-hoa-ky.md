@@ -30,3 +30,6 @@ Event năm nay tập trung nhiều về các AI tools cho enterprise, developers
 
 ## 1 số cái linh tinh khác:
 Cuối cùng thì 1 số cái linh tinh khác như việc nhận ra là về hàng hóa, vật dụng, thời trang... thì ở VN mình không thiếu 1 cái gì cả, mình vô apple store, hay cửa hàng đồ chơi, thời trang nhiều khi cũng y chang mà ở VN còn rẻ hơn - có chăng khác là ở Mỹ về thuốc và thực phẩm chức năng thì rẻ và xịn hơn nhiều thôi. Hay là việc trải nghiệm 1 số app xưa giờ mình xài tối ưu hơn khi ở Mỹ: như là app gg maps render 3D các building khi đi vào trung tâm, hay là có speed limit rất rõ ràng, ở các ngã rẽ thì chỉ làn rẽ rất chi tiết, hoặc là app weather có predict chính xác được thời gian mưa theo từng phút sắp tới ... Và còn rất nhiều điểm thú vị nhỏ nhỏ đối với mình nữa nhưng cũng khó gom hết được, thôi thì để picture can speak a thousand words vậy.
+
+Hình ảnh xem thêm ở đây:
+https://www.facebook.com/legendstar177/posts/pfbid08mdy1MzhRzcLRTQiFAHoLa5WKkx689P2Ubroiv2wGsh9s9PD2Sios9iz6AYWMGUWl
