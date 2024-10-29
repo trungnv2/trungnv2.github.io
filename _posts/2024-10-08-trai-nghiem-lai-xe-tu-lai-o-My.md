@@ -7,7 +7,7 @@ tags: [life]
 comments: true
 ---
 
-Tháng 5/2024 vừa rồi thì Trung có cơ hội được qua Mỹ tham dự event Microsoft Build cùng anh Khaivq và 6 thành viên khác (chị chidtq, anh datnb2, chị anhntm3, anh phuonglt, tungnt10 và chiennd). Chuyến đi có rất nhiều trải nghiệm mới đối với mình, đặc biệt là kinh nghiệm lái xe tự túc lại Mỹ, trong bài viết mở hàng đầu tiên của mình trên za.wiki, mình cũng muốn chia sẻ lại về trải nghiêm này. 
+Tháng 5/2024 vừa rồi thì Trung có cơ hội được qua Mỹ tham dự event Microsoft Build cùng anh Khải (chủ tịch Zalo) cùng 1 số thành viên khác. Chuyến đi có rất nhiều trải nghiệm mới đối với mình, đặc biệt là kinh nghiệm lái xe tự túc lại Mỹ, nên mình cũng muốn chia sẻ lại về trải nghiệm này. 
 
 **Disclaimer**: Mọi chia sẻ sau đây của Trung dựa trên kinh nghiệm cá nhân quan sát được, cũng như các insight thu thập từ những các bác tài xế taxi, uber ở tiểu bang Washington (WA). Mình không đảm bảo đúng như văn bản luật và phạm vi áp dụng có thể chỉ ở WA, nếu mọi người đi những vùng khác thì cứ kiểm tra lại cho chắc nha. 
 
@@ -31,7 +31,7 @@ Ngoài chi phí cao và phải đặt chuyến nhiều lần thì mỗi khi đi 
 Ban đầu mình và a Đạt cũng tìm hiểu nhiều về việc phải đổi bằng lái xe quốc tế. Nhưng sau 2 tuần retry liên tục (hầu như là mình vào hàng ngày để đăng kí nhưng toàn hết quota, lỗi, load không được, ...) thì mình bỏ cuộc vụ đăng kí này: [link đăng kí](https://dichvucong.gplx.gov.vn/faces/registration/home.xhtml). Nhưng thăm hỏi khá nhiều bạn bè và network bên đó thì thấy mọi người kêu chỉ cần bằng lái xe có song ngữ là chấp nhận được (mọi người đi đâu nhớ double check vụ này nhé). 
 
 ### 2. **Lựa chọn đơn vị cho thuê** 
-Vụ thuê xe này cũng là lần đầu của anh Đạt. Đầu tiên anh tìm hiểu qua 2 kiểu: lượm lặt thông tin trên mạng (qua các bài chia sẻ kinh nghiệm, quora...) & hỏi kinh nghiệm người quen (cụ thể là anh chinhnc và anh huyhq – 2 anh có nhiều kinh nghiệm thuê xe nhà mình). 
+Vụ thuê xe này cũng là lần đầu của 1 anh trong team (a Đạt). Đầu tiên anh tìm hiểu qua 2 kiểu: lượm lặt thông tin trên mạng (qua các bài chia sẻ kinh nghiệm, quora...) & hỏi kinh nghiệm người quen (cụ thể là anh chinhnc và anh huyhq – 2 anh có nhiều kinh nghiệm thuê xe nhà mình). 
   
 Khi đã hòm hòm được ít thông tin như là loại xe mình muốn, phù hợp với nhu cầu sử dụng của đoàn, anh Đạt đã chọn ra 2 “bạn” cho thuê tương đối phổ biến là [Avis](https://www.avis.com/en/home) và [Hertz](https://www.hertz.com/rentacar/reservation/).  
   
@@ -61,7 +61,7 @@ Google map ở Mỹ rất xịn và có nhiều tính năng hay như là render 
 Chỉ một phó lái thôi nhé, nói không với “back-seat driver” vì các làn đường phức tạp, nếu nghe ý kiến của nhiều người thì tài xế sẽ loạn lên hết. 
 
 ![Window shadow](/assets/img/posts/trai_nghiem_lai_xe_o_US/5.jpg){: .shadow width="1548" height="864" style="max-width: 90%" }
-_Phó lái trungnv2 cho anh Khải - Chủ tịch Zalo_
+_Làm phó lái cho anh Khải - Chủ tịch Zalo_
   
 + Làn HOV (làn ưu tiên) trên cao tốc 
 HOV viết tắt của “high-occupancy vehicle”, là làn đường dành cho xe chở nhiều, từ 2 người trở lên (bao gồm cả xe buýt). Làn HOV có biểu tượng hình quả nho, nằm sát bên trái. 
