@@ -13,7 +13,7 @@ Tháng 5/2024 vừa rồi thì Trung có cơ hội được qua Mỹ tham dự e
 
 ![Window shadow](/assets/img/posts/trai_nghiem_lai_xe_o_US/1.jpg){: .shadow width="1548" height="864" style="max-width: 90%" }
 
-##**THUÊ XE TỰ TÁI TỐI ƯU ĐƯỢC CHI PHÍ, SỰ CHỦ ĐỘNG**
+## **THUÊ XE TỰ TÁI TỐI ƯU ĐƯỢC CHI PHÍ, SỰ CHỦ ĐỘNG**
 
 Khi đi đến một vùng đất mới, đặc biệt là những nơi phát triển như Mỹ thì chúng ta có rất nhiều lựa chọn di chuyển từ phương tiện công cộng như tàu điện, xe buýt,… đến taxi, Uber,.. đều rất dễ dàng để tiếp cận thế nhưng khi đi một đoàn 8 người thì ngoài việc tối ưu chi phí, việc di chuyển cùng nhau cũng là vấn đề đáng được quan tâm. 
 
@@ -25,7 +25,7 @@ Ngoài chi phí cao và phải đặt chuyến nhiều lần thì mỗi khi đi 
 
 ![Window shadow](/assets/img/posts/trai_nghiem_lai_xe_o_US/2.jpg){: .shadow width="1548" height="864" style="max-width: 90%" }
 
-##**MỘT SỐ KINH NGHIỆM LÁI XE TẠI XỨ CỜ HOA**
+## MỘT SỐ KINH NGHIỆM LÁI XE TẠI XỨ CỜ HOA
 
 1. **Giấy phép lái xe**
 Ban đầu mình và a Đạt cũng tìm hiểu nhiều về việc phải đổi bằng lái xe quốc tế. Nhưng sau 2 tuần retry liên tục (hầu như là mình vào hàng ngày để đăng kí nhưng toàn hết quota, lỗi, load không được, ...) thì mình bỏ cuộc vụ đăng kí này: [link đăng kí](https://dichvucong.gplx.gov.vn/faces/registration/home.xhtml). Nhưng thăm hỏi khá nhiều bạn bè và network bên đó thì thấy mọi người kêu chỉ cần bằng lái xe có song ngữ là chấp nhận được (mọi người đi đâu nhớ double check vụ này nhé). 
@@ -96,7 +96,7 @@ Nếu đậu quá giờ quy định hoặc không thanh toán (cũng qua online)
   
 + Khu vực đỗ xe có tính phí: Một số nơi đỗ xe tính phí sẽ có biển báo nhưng phí rất cao. 
 
-![Window shadow](/assets/img/posts/trai_nghiem_lai_xe_o_US/7.jpg){: .shadow width="1548" height="864" style="max-width: 90%" }
+![Window shadow](/assets/img/posts/trai_nghiem_lai_xe_o_US/7.png){: .shadow width="1548" height="864" style="max-width: 90%" }
   
 Đoàn mình cũng khá phiêu lưu nên thử thêm việc đỗ xe trong tòa nhà. Vào hầm hoàn toàn không có bảo vệ hay nhân viên hỗ trợ qua máy tự động hết. Đoạn vào khá trơn tru, chỉ cần bấm nút và lấy thẻ cứng là xong. 
   
@@ -111,7 +111,7 @@ Cũng liên quan đến vấn đề xăng, khi thuê xe mình có 2 lựa chọn
   
 Chia sẻ cũng dài rồi (hơn 2000 chữ), Trung xin được kết lại bằng 10 sự thật vui vẻ có được từ trải nghiệm lần đầu lái xe tự túc trên đất Mỹ. Mong rằng chia sẻ này sẽ mang lại cho các bạn những thông tin hữu ích, nếu có đóng góp thêm ý nào, hãy mạnh dạn chỉnh sửa để bài viết được hoàn chỉnh hơn nha. 
   
-##**10 FUN FACT TỪ TRẢI NGHIỆM LÁI XE TẠI XỨ CỜ HOA** 
+## 10 FUN FACT TỪ TRẢI NGHIỆM LÁI XE TẠI XỨ CỜ HOA
   
 1. “Flow” lưu thông > Luật: Người Mỹ quan trọng đảm bảo việc lưu thông ổn định của các làn xe hơn là nghiêm khắc theo luật, ví dụ bạn có thể chạy quá tốc độ tầm 5-10 dặm/ giờ để qua đèn đỏ và giữ khoảng cách an toàn, chứ đừng dừng đột ngột để phải “hun đít”nhau.  
 2. Đèn giao thông không đếm ngược mà chuyển xanh đỏ, đỏ xanh bất chợt nên cần tập trung. 
