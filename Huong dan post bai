@@ -10,3 +10,4 @@ sau đó cũng thêm file trực tiếp vào folder, chỉnh sửa... như trên
 Nếu push local lên bị fail -> push local xong chọn terminal : git push origin master. Hoặc check xem author post bài có phải acc chính chủ : 
 username: trungnv2
 email: legendstar177@gmail.com
+
