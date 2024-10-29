@@ -13,7 +13,7 @@ Tháng 5/2024 vừa rồi thì Trung có cơ hội được qua Mỹ tham dự e
 
 ![Window shadow](/assets/img/posts/trai_nghiem_lai_xe_o_US/1.jpg){: .shadow width="1548" height="864" style="max-width: 90%" }
 
-## **THUÊ XE TỰ TÁI TỐI ƯU ĐƯỢC CHI PHÍ, SỰ CHỦ ĐỘNG**
+## THUÊ XE TỰ TÁI TỐI ƯU ĐƯỢC CHI PHÍ, SỰ CHỦ ĐỘNG
 
 Khi đi đến một vùng đất mới, đặc biệt là những nơi phát triển như Mỹ thì chúng ta có rất nhiều lựa chọn di chuyển từ phương tiện công cộng như tàu điện, xe buýt,… đến taxi, Uber,.. đều rất dễ dàng để tiếp cận thế nhưng khi đi một đoàn 8 người thì ngoài việc tối ưu chi phí, việc di chuyển cùng nhau cũng là vấn đề đáng được quan tâm. 
 
@@ -27,10 +27,10 @@ Ngoài chi phí cao và phải đặt chuyến nhiều lần thì mỗi khi đi 
 
 ## MỘT SỐ KINH NGHIỆM LÁI XE TẠI XỨ CỜ HOA
 
-1. **Giấy phép lái xe**
+### 1. **Giấy phép lái xe**
 Ban đầu mình và a Đạt cũng tìm hiểu nhiều về việc phải đổi bằng lái xe quốc tế. Nhưng sau 2 tuần retry liên tục (hầu như là mình vào hàng ngày để đăng kí nhưng toàn hết quota, lỗi, load không được, ...) thì mình bỏ cuộc vụ đăng kí này: [link đăng kí](https://dichvucong.gplx.gov.vn/faces/registration/home.xhtml). Nhưng thăm hỏi khá nhiều bạn bè và network bên đó thì thấy mọi người kêu chỉ cần bằng lái xe có song ngữ là chấp nhận được (mọi người đi đâu nhớ double check vụ này nhé). 
 
-2. **Lựa chọn đơn vị cho thuê** 
+### 2. **Lựa chọn đơn vị cho thuê** 
 Vụ thuê xe này cũng là lần đầu của anh Đạt. Đầu tiên anh tìm hiểu qua 2 kiểu: lượm lặt thông tin trên mạng (qua các bài chia sẻ kinh nghiệm, quora...) & hỏi kinh nghiệm người quen (cụ thể là anh chinhnc và anh huyhq – 2 anh có nhiều kinh nghiệm thuê xe nhà mình). 
   
 Khi đã hòm hòm được ít thông tin như là loại xe mình muốn, phù hợp với nhu cầu sử dụng của đoàn, anh Đạt đã chọn ra 2 “bạn” cho thuê tương đối phổ biến là [Avis](https://www.avis.com/en/home) và [Hertz](https://www.hertz.com/rentacar/reservation/).  
@@ -48,7 +48,7 @@ Cuối cùng thì đoàn quyết định lựa chọn thuê 2 chiếc Premium SU
 
 ![Window shadow](/assets/img/posts/trai_nghiem_lai_xe_o_US/4.jpg){: .shadow width="1548" height="864" style="max-width: 90%" }
 
-3. **Hệ thống giao thông cao tốc phức tạp, “sai 1 ly, đi 1 dặm”**
+### 3. **Hệ thống giao thông cao tốc phức tạp, “sai 1 ly, đi 1 dặm”**
 Qua Mỹ rồi Trung mới thấm thía câu này, bởi đơn vị đo lường ở đây là miles (dặm). Kết hợp với hệ thống giao thông cao tốc phức tạp (toàn trên dưới 10 làn xe), việc tập trung cao độ và quyết đoán là rất cần thiết vì từng có một đoạn “tài xế nhà trồng” lỡ không quẹo kịp ở một ngã rẽ, đoàn đã mất thêm nhiều dặm để có thể trở lại đúng đường. 
   
 Một số chia sẻ Trung tự đúc kết như sau: 
@@ -72,12 +72,12 @@ Thực tế khi trải nghiệm đi Uber và lúc sau là tự lái thì mình m
   
 Ngoài ra ở một số đoạn, những xe 1 người vẫn có thể dùng “đô la thần chưởng” để đi vào làn HOV (cứ tầm vài trăm mét là 1$). 
   
-4. **Phí cao tốc** 
+### 4. **Phí cao tốc** 
 Tương tự như Việt Nam và các nước khác, trên cao tốc Mỹ cũng có trạm thu phí, tuy nhiên việc đóng phí là tự giác, không có thanh chắn. Khi qua mỗi trạm, bạn có thể nhìn thấy mức phí sau đó tự nhớ (hoặc sẽ có mail trả về nếu có đăng kí trước đó) và đóng online sau (không như ở VN phải nạp tiền trước, hết tiền thì thanh chắn không mở lên). 
   
 Riêng phần này khi thuê xe cũng có 2 lựa chọn là đi qua bao nhiêu trạm trả bấy nhiêu tiền hoặc gói bao toàn bộ phí. Bạn có thể kiểm tra trước và so sánh xem lựa chọn nào tiết kiệm hơn nha, riêng với đoàn đợt rồi thì lựa chọn một là tối ưu nhất. 
   
-5. **Biển báo “STOP”** 
+### 5. **Biển báo “STOP”** 
 Biển báo này xuất hiện ở các giao lộ đường nhỏ trong trung tâm thành phố mà không có đèn giao thông, hoặc ở các giao lộ ngoài rìa hay là ra ngoại ô thì đa số họ đặt biển STOP ở các đường không ưu tiên khi giao với đường lớn hơn. Các phương tiện khi tới biển STOP PHẢI dừng lại, quan sát xung quanh, khi không có xe thì họ mới tiếp tục di chuyển. Ngay cả khi từ xa thấy giao lộ rất vắng vẻ vẫn phải dừng lại 1 nhịp rồi mới được đi tiếp 
   
 Mình đã chứng kiến cảnh xe dừng ở biển STOP rất lâu khi luồng xe di chuyển liên tục và họ cứ phải đợi như vậy mãi tới khi trống. Khi đó nếu đi ở đường lớn ưu tiên thì mình thấy họ phóng tẹt ga, và mình nghĩ nếu có tai nạn thì rõ ràng ông đi từ làn có biển STOP luôn sẽ là người có lỗi trước.  
@@ -86,7 +86,7 @@ Còn với trường hợp ở một giao lộ tất cả đều có biển STOP
 
 ![Window shadow](/assets/img/posts/trai_nghiem_lai_xe_o_US/6.jpg){: .shadow width="1548" height="864" style="max-width: 90%" }
   
-6. **Đỗ/Đậu xe trong thành phố** 
+### 6. **Đỗ/Đậu xe trong thành phố** 
 Chỗ để đỗ xe có khắp nơi ở Seattle và không có chỗ nào còn trống . Vì vậy, nhiều lúc bạn sẽ phải đỗ xe ở khá xa điểm đến và đi bộ (kể cũng là một cơ hội ngắm phố). 
   
   
@@ -102,7 +102,7 @@ Nếu đậu quá giờ quy định hoặc không thanh toán (cũng qua online)
   
 Đoạn ra hơi trúc trắc vì cửa ra không có chỗ quẹt thẻ, tìm tòi độ 20 phút thì thấy một cái máy ngay chỗ thang máy đi ra, nhét thẻ vào hiện thông tin để thanh toán. Xong xuôi, bạn lấy phiếu thu giấy ra chỗ cổng, nhét vào mới có thể thoát ra ngoài. 
   
-7. **Đổ xăng tự túc** 
+### 7. **Đổ xăng tự túc** 
 Bạn nào xem phim nhiều cũng biết các cây xăng ở Mỹ không có nhân viên, mình sẽ phải tự đổ và thanh toán. Sau nhiều nỗ lực thanh toán bằng thẻ credit card và thất bại, Trung phải vào quầy gần đó đưa tiền mặt cho nhân viên trực quầy, ra đổ xăng và lấy biên lai để nhận lại tiền thối.  
   
 Nói chung là phức tạp, cho đến bây giờ Trung cũng không hiểu vì sao cà thẻ không được, bạn nào có kinh nghiệm vụ này thì giải thích thêm giúp Trung nha. 
