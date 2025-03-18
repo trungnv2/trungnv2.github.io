@@ -1,7 +1,7 @@
 ---
 title: Những cân nhắc trước khi đi học MBA
 author: Trung Nguyễn
-date: 2024-03-14 19:28:00 +0700
+date: 2025-03-14 19:28:00 +0700
 categories: [Work, Career]
 tags: [career, study, life]
 comments: true
