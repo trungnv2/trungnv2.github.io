@@ -7,11 +7,9 @@ tags: [career, study, life]
 comments: true
 image:
   src: /assets/img/posts/can_nhac_before_mba/cover.jpeg
-  width: 800
-  height: 500
+  width: 400
+  height: 250
 ---
-## 
-
 Tuần trước, ZYLO (Zalo Young Leaders Organization) tổ chức một buổi chia sẻ về Xây dựng Thương hiệu Cá nhân, dựa trên cuốn sách Me 2.0 của Dan Schawbel. Một ý rất hay được đề cập: Đầu tư vào các mối quan hệ, tăng cường tương tác trên mạng xã hội, và viết blog thường xuyên, ngay cả khi bạn **KHÔNG** cần tìm việc. Mình ngẫm lại thấy điều này rất hợp lý.
 
 Thỉnh thoảng, mình nhận thấy một số người quen lâu không xuất hiện. Bỗng nhiên, họ cập nhật hồ sơ LinkedIn, đăng bài thường xuyên, bình luận khắp nơi, tham gia diễn thuyết tại hội thảo, và viết blog nhiều hơn. Sau một thời gian ngắn, họ nghỉ việc (pattern khá rõ ràng). Tuy nhiên, nhiều khi tới lúc thật sự mình cần mới hành động thì đã quá muộn.
@@ -36,17 +34,17 @@ Với mình, mình muốn học dài hạn, nghiêm túc, nên chọn MBA thay v
 
 ## NHỮNG ĐIỀU CẦN CHUẨN BỊ TRƯỚC KHI HỌC MBA
 
-- **Gia Đình**: 
+### Gia Đình
 Sự ủng hộ từ gia đình, đặc biệt là vợ/chồng, cực kỳ quan trọng. Học bán thời gian nghĩa là tối và cuối tuần bận rộn. Các chương trình liên kết nước ngoài thường học liên tục cả tuần khi giảng viên bay sang. Thời gian cho con cái, gia đình sẽ giảm đáng kể. Nếu không được hỗ trợ, rất khó để tập trung học.
 
 Lời khuyên: Học càng sớm càng tốt, sau khi có vài năm kinh nghiệm làm việc (thường MBA yêu cầu tối thiểu 3-4 năm). Nếu để sau kết hôn thì sẽ bận x2, có con 1 đứa sẽ bận x4, có 2 đứa sẽ bận x10, chưa kể còn khi con lớn đi học tối ở nhà dạy học thì ôi thôi. Ngày xưa mình cũng đã plan rất kỹ học 2 năm xong tốt nghiệp rồi mới có đứa thứ 2, trộm vía thì cũng như kế hoạch. Ngày nhận bằng tốt nghiệp, vừa lúc vợ mang bầu lên chụp hình, chứ như bây giờ mà có 2 đứa rồi chắc k thể học nổi
 
-- **Cân đối với công việc**: 
+### Cân đối với công việc
 Mục tiêu học MBA thường để hỗ trợ công việc. Vậy nên, không thể để việc học ảnh hưởng hiệu suất làm việc. Tuy nhiên điều này rất khó, đi làm cả ngày đã mệt rồi, tối còn chạy đi học, khuya nhiều khi còn phải làm assignment, đặc biệt là giai đoạn làm thesis, hiếm đêm nào là ngủ đủ
 
 Mình khuyên bạn nên chia sẻ với sếp và công ty về việc học, giải thích lý do và lợi ích cho công việc. Ngày xưa sếp Hoàng của mình rất hỗ trợ, cho về sớm lúc 17h để đi học, tất nhiên miễn sao công việc vẫn được đảm bảo.
 
-- **Chọn chương trình phù hợp**: 
+### Chọn chương trình phù hợp
 Từ danh sách rút gọn ở trên, thì tiếp theo sẽ làm làm sao để mình lựa chọn được chương trình phù hợp. Mình cũng chia sẻ 1 số cách mà mình đã làm:
   + ***Chất lượng đào tạo***: có thể nhìn nhanh qua các certificate các tổ chức uy tín cấp cho (VD AACSB, ACBSP ...), sau đó vô trang chủ các cerf đó để xem tiêu chuẩn cấp có khắt khe hay không, số lượng cấp, có trường nào nổi tiếng cũng nằm trong danh sách được cấp hay không. Ngoài ra mình cũng có hỏi thăm thêm bên trường hoặc các anh chị cựu học viên về tỉ lệ ra trường như thế nào, tỉ lệ qua môn học, bằng cấp có được chứng nhận quốc tế, BGD công nhận hay không.
   + ***Danh sách môn học***: Xem brochure chương trình.
@@ -56,7 +54,7 @@ Từ danh sách rút gọn ở trên, thì tiếp theo sẽ làm làm sao để 
 
 ## GÓC NHÌN THỰC TẾ SAU KHI HOÀN THÀNH MBA
 
-Sau khi mình học xong, ngồi reflect lại, thì mình thấy những thứ mình nhận được cũng khá khác so với những kỳ vọng ban đầu mà mình list ra trước khi đi học. Cá nhân mình thì thấy có 3 giá trị lớn nhất:
+Sau khi mình học xong, ngồi reflect lại, thì mình thấy những thứ mình nhận được cũng khá khác so với những kỳ vọng ban đầu mà mình list ra trước khi đi học. Cá nhân mình thì thấy có 4 giá trị lớn nhất:
 
 ### Góc nhìn đa dạng từ các anh chị managers ở nhiều lĩnh vực khác nhau
 Mình học được cách nhìn vấn đề từ nhiều lĩnh vực khác nhau. Nhiều khi 1 số vấn đề xưa giờ ở lĩnh vực IT của mình thì khá đơn giản và dễ áp dụng, nhưng lại là 1 rào cản rất lớn ở các lĩnh vực khác. 
