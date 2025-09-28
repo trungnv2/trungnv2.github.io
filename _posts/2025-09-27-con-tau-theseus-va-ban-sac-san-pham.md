@@ -1,18 +1,14 @@
 ---
-title: Con tàu Theseus và Bản sắc sản phẩm - Liên tục đổi mới nhưng không mất đi giá trị cốt lõi
+title: Ngịch lý Theseus & câu chuyện về bản sắc sản phẩm
 author: Trung Nguyễn
-date: 2025-09-27 19:28:00 +0700
+date: 2025-09-28 19:28:00 +0700
 categories: [Work, Career, Product Management]
 tags: [career, study, life]
 comments: true
-image:
-  src: /assets/img/posts/con_tau_theseus/cover.jpeg
-  width: 400
-  height: 250
 ---
 TLDR: **Bản sắc sản phẩm là hệ quả của việc giá trị cốt lõi sản phẩm được theo đuổi một cách liên tục & nhất quán theo thời gian**
 
-Đợt rồi mình có tham gia 1 hội thảo về AI. Có nhắc tới Nghịch lý con tàu Theseus: nếu bạn sao chép toàn bộ ký ức, ý thức, suy nghĩ của mình vào 1 con AI/robot giống y chang bạn, thì con robot đó có phải là “bạn” không? Nó làm mình nhớ tới Vision trong phim Marvel, Mickey 17, hay được khai thác rất nhiều trong series Black Mirror. Và đặc biệt, nó làm mình liên tưởng ngay tới công việc hàng ngày: liên tục cải thiện, phát triển, đổi mới sản phẩm nhưng luôn phải ý thức không được làm mất các giá trị cốt lõi.
+Đợt rồi mình có tham gia 1 hội thảo về AI, trong đó có nhắc tới Nghịch lý con tàu Theseus: nếu sao chép toàn bộ ký ức, ý thức, suy nghĩ của mình vào 1 con AI/robot giống y chang bạn, thì thực thể đó có phải là “bạn” không? Nghe vậy mình nhớ tới Vision trong phim Marvel, Mickey 17, hay những tập Black Mirror được khai thác rất nhiều về chủ đề này. Quan trọng hơn, nó làm mình liên tưởng ngay tới công việc hàng ngày: liên tục cải tiến, phát triển, đổi mới sản phẩm nhưng luôn phải ý thức không đánh mất các giá trị cốt lõi.
 
 ## Nghịch lý Ship of Theseus
 Theseus là một anh hùng trong thần thoại Hy Lạp. Con tàu mà ông dùng để trở về Athens được bảo quản trong nhiều thế kỷ. Theo thời gian, các bộ phận của con tàu hỏng dần và được thay thế bằng các bộ phận mới.
@@ -32,7 +28,9 @@ Vậy Zalo 2025 hiện tại có còn là “sản phẩm ban đầu” ra mắt
   - Có khi nào giá trị mà họ từng yêu thích đã bị mài mòn?
 
 ![Window shadow](/assets/img/posts/con_tau_theseus/zalo_old.png){: .shadow width="1548" height="864" style="max-width: 90%" }
-![Window shadow](/assets/img/posts/con_tau_theseus/zalo_new.png){: .shadow width="1548" height="864" style="max-width: 90%" }
+_Giao diện Zalo năm 2015_
+![Window shadow](/assets/img/posts/con_tau_theseus/zalo_new.png){: .shadow width="250" height="400" style="max-width: 90%" }
+_Giao diện Zalo hiện tại_
 
 ## 2 cách nhìn về danh tính
 Mình có research nhanh và tổng hợp lại có 2 trường phái:
@@ -75,9 +73,9 @@ Nhưng nói thay đổi là xấu thì không công bằng. Về kinh doanh, Met
 Nói về Telegram cũng có 1 câu chuyện khá thú vị. Ngày xưa định vị Tele là **fast, simple, secure** — và đúng là user cảm được bản sắc đó. Nhưng dần dần các tính năng, use case và tập user mà tele hướng tới ngày càng advance hơn, mấy năm gần đây họ đã điều chỉnh core values của mình là **fast, secure và powerful**. Việc thay đổi từ simple -> powerful thể hiện rất rõ: nâng limit group chat, nâng limit file có thể gửi, cho phép user setup bots cho các tác vụ auto ... 1 lần nữa điều này thể hiện giá trị cốt lõi thật sự không có đúng hoặc sai, mà nó là sự lựa chọn chiến lược của đội sản phẩm, miễn là khiến người dùng nhân ra đúng giá trị mà họ hướng tới
 
 ![Window shadow](/assets/img/posts/con_tau_theseus/tele_old.jpeg){: .shadow width="1548" height="864" style="max-width: 90%" }
-_3 giá trị cốt lõi ban đầu_
+_Telegram thời kì đầu_
 ![Window shadow](/assets/img/posts/con_tau_theseus/tele_new.jpeg){: .shadow width="1548" height="864" style="max-width: 90%" }
-_3 giá trị cốt lõi hiện tại_
+_Telegram hiện tại_
 
 **Zalo**
 Bốn giá trị cốt lõi Zalo theo đuổi từ đầu là fast, simple, private, intimate. Những giá trị này thể hiện rất rõ (mình chỉ điểm vài ý, nói cả ngày không hết):
@@ -90,7 +88,7 @@ Bốn giá trị cốt lõi Zalo theo đuổi từ đầu là fast, simple, priv
 
 Còn rất nhiều câu chuyện về việc theo đuổi giá trị cốt lõi và đưa ra lựa chọn (như login nhiều thiết bị, local storage, ...) có dịp mình sẽ làm 1 bài riêng chi tiết hơn. Quan trọng ý mình vẫn muốn nhấn mạnh là: bất cứ sự lựa chọn nào đều không dễ dàng, nhưng việc align với các giá trị cốt lõi liên tục & nhất quán trong bối cảnh sản phẩm phải cải tiến không ngừng để đáp ứng nhu cầu ngày một đa dạng và khắt khe của user - đó mới là mấu chốt
 
-![Window shadow](/assets/img/posts/con_tau_theseus/zalo_core_value.jpg){: .shadow width="1548" height="864" style="max-width: 90%" }
+![Window shadow](/assets/img/posts/con_tau_theseus/zalo_core_value.jpg){: .shadow width="400" height="600" style="max-width: 90%" }
 _4 giá trị cốt lõi Zalo theo đuổi ban đầu_
 
 ## Làm sao để giữ bản sắc khi mọi thứ đều thay đổi? 
