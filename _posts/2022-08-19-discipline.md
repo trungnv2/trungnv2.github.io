@@ -5,7 +5,7 @@ date: 2022-08-19 19:28:00 +0700
 categories: [Life, Career]
 tags: [life, study]
 comments: true
-image:
+banner:
   src: /assets/img/posts/discipline/cover.jpeg
   width: 800
   height: 500

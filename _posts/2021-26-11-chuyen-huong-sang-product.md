@@ -5,7 +5,7 @@ date: 2021-11-26 19:28:00 +0700
 categories: [Work, Career]
 tags: [career, work]
 comments: true
-image:
+banner:
   src: /assets/img/posts/se_move_pm/cover.jpeg
   width: 800
   height: 500
