@@ -1,9 +1,14 @@
 ---
+<<<<<<< HEAD
 title: Giới thiệu
+=======
+# the default layout is 'page'
+>>>>>>> v7.4.1
 icon: fas fa-info-circle
 order: 4
 ---
 
+<<<<<<< HEAD
 
 > “Pursue excellence and success will follow you” - **Rancho**
 
@@ -15,3 +20,7 @@ Mình là Trung Nguyễn, hiện đang sinh sống và làm việc ở thành ph
 Thật ra mình chần chừ khá lâu trước khi quyết định lập nên một website cá nhân, một phần vì khả năng viết lách của mình chưa tốt, một phần khác vì mình cũng ngại việc public những suy nghĩ của mình ra ngoài, ngoài ra thì mình từng có quan điểm viết blog là phải chia sẻ, phải tạo nhiều giá trị cho cộng đồng. Tuy nhiên sau khi được truyền cảm hứng từ nhiều kênh cá nhân hay blog của bạn bè xung quanh, mình nghĩ đơn giản đây là nơi mình cung cấp thêm 1 góc nhìn về những trải nghiệm, vấn đề xảy ra trong công việc, cuộc sống thường ngày. Với mục tiêu là hệ thống hóa suy nghĩ, cải thiện khả năng truyền đạt qua câu chữ mình viết ra, cũng như 1 nơi lưu giữ những bài học, kinh nghiệm, dấu mốc trong cuộc sống, blog này sẽ mang lại nhiều giá trị cho bản thân mình hơn là cho đi.
 
 Ngoài trang web này, các bạn có thể kết nối với mình thông qua [**Email**](mailto:nvtrung177@gmail.com), [**LinkedIn**](https://www.linkedin.com/in/trungnv2/) và [**Facebook**](https://www.facebook.com/legendstar177/)
+=======
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
+>>>>>>> v7.4.1
