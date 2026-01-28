@@ -5,10 +5,10 @@ date: 2022-08-19 19:28:00 +0700
 categories: [Life, Career]
 tags: [life, study]
 comments: true
-banner:
-  src: /assets/img/posts/discipline/cover.jpeg
-  width: 800
-  height: 500
+image: /assets/img/posts/discipline/cover.jpeg
+  # src: /assets/img/posts/discipline/cover.jpeg
+  # width: 800
+  # height: 500
 ---
 
 Tình hình là dạo gần đây mình hơi thừa cân 1 tẹo(thật ra là mập quá), vì thế đợt này mình đang đặt mục tiêu giảm cân và cố giữ kỷ luật bản thân trong việc dậy sớm lúc 6h, tập thể dục cũng như là giảm tinh bột chỉ ăn salad các buổi trưa trong tuần, càng ngày mình càng thấm thía việc kỷ luật có tác động như thế nào tới cuộc sống cá nhân mình, không chỉ trong cuộc sống, mà còn là trong công việc (như là commit đúng deadline, tập trung trong giờ làm, họp hành đúng giờ), và ngay cả việc giải trí mình nghĩ cũng cần kỷ luật (vui chơi biết điểm dừng, vui thôi đừng vui quá 😁, hay là chơi poker thì cũng phải kỷ luật trong việc open range, call all-in hay là bankroll control)

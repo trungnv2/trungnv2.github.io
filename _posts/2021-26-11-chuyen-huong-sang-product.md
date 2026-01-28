@@ -5,10 +5,10 @@ date: 2021-11-26 19:28:00 +0700
 categories: [Work, Career]
 tags: [career, work]
 comments: true
-banner:
-  src: /assets/img/posts/se_move_pm/cover.jpeg
-  width: 800
-  height: 500
+image: /assets/img/posts/se_move_pm/cover.jpeg
+  # src: /assets/img/posts/se_move_pm/cover.jpeg
+  # width: 800
+  # height: 500
 ---
 ## Những ngã rẽ
 
