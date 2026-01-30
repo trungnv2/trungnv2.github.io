@@ -2,9 +2,6 @@
 #
 # Run jekyll serve and then launch the site
 
-<<<<<<< HEAD
-bundle exec jekyll s -H 0.0.0.0 -l
-=======
 prod=false
 command="bundle exec jekyll s -l"
 host="127.0.0.1"
@@ -55,4 +52,3 @@ fi
 
 echo -e "\n> $command\n"
 eval "$command"
->>>>>>> v7.4.1
