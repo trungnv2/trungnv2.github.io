@@ -1,5 +1,5 @@
 ---
-title: Nghịch lý "Theseus" & câu chuyện về bản sắc sản phẩm
+title: Nghịch lý Theseus & câu chuyện về bản sắc sản phẩm
 author: Trung Nguyễn
 date: 2025-09-28 19:28:00 +0700
 categories: [Work, Career, Product Management]
