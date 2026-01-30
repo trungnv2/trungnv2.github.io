@@ -6,6 +6,7 @@ last modified: 2026-01-30 19:28:00 +0700
 categories: [Work, Career, Product Management]
 tags: [career, study, life]
 image: /assets/img/posts/right_person_right_time_place_right_time/banner.png
+comments: true
 ---
 
 Vừa rồi mình có dịp đón tiếp một nhóm các bạn intern người Singapore từ NTU ghé thăm VNG Campus để tìm hiểu về cách làm Product tại Việt Nam. May mắn là buổi chia sẻ không chỉ dừng lại ở xã giao, mà mình cũng truyền được ít nhiều cảm hứng cho các bạn về định hướng nghề nghiệp, cũng như giải đáp một số trăn trở thực tế của những người trẻ mới bước chân vào ngành
