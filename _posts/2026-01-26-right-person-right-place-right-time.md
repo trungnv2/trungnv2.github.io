@@ -7,6 +7,9 @@ categories: [Work, Career, Product Management]
 tags: [career, study, life]
 image:
   path: /assets/img/posts/right_person_right_time_place_right_time/banner.png
+  src: /assets/img/posts/right_person_right_time_place_right_time/banner.png
+  width: 500
+  height: 500
   alt: Banner minh họa  # (Optional - Dòng này có thể bỏ qua nhưng nên có cho chuẩn SEO) 
 comments: true
 ---
