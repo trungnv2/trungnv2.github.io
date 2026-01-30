@@ -5,7 +5,9 @@ date: 2026-01-26 19:28:00 +0700
 last modified: 2026-01-30 19:28:00 +0700
 categories: [Work, Career, Product Management]
 tags: [career, study, life]
-image: /assets/img/posts/right_person_right_time_place_right_time/banner.png
+image:
+  path: /assets/img/posts/right_person_right_time_place_right_time/banner.png
+  alt: Banner minh họa  # (Optional - Dòng này có thể bỏ qua nhưng nên có cho chuẩn SEO) 
 comments: true
 ---
 
