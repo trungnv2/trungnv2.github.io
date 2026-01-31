@@ -28,11 +28,11 @@ Mình cười và trả lời ngay: Làm Product Management thì thất bại nh
 
 Giai đoạn 2019-2020, mình chịu trách nhiệm mảng Group của Zalo. Một trong những Core Values (giá trị cốt lõi) mà Zalo theo đuổi là Intimacy (Sự thân mật). Nó thể hiện qua sự đồng hành của sản phẩm trong mọi sự kiện đời sống của user: từ các local seasonal event như dịp lễ Tết, 20/10, 8/3... cho đến các sự kiện cá nhân như sinh nhật (gửi lời chúc, sticker, thiệp chúc mừng ...). Một success case điển hình thời điểm đó là việc đẩy rất mạnh các Group Family (Nhóm gia đình) trên Zalo
 
-Cách làm lúc đó rất tự nhiên và hiệu quả: Team cố gắng sử dụng thuật toán để nhận diện (detect) các mối quan hệ gia đình (dựa trên các tín hiệu tương tác nhưng vẫn đảm bảo tuyệt đối Data Privacy, không truy cập gì tới nội dung tin nhắn/cuộc gọi, dữ liệu cá nhân của user). Sau đó, hệ thống sẽ gợi ý tạo nhóm gia đình vào đúng các dịp Lễ, Tết ngay trong tab Tin nhắn hoặc tab Group (banner). Kết quả rực rỡ: Độ phủ (Penetration) của nhóm gia đình tăng vọt, hầu như ai cũng có ít nhất 1 nhóm gia đình, user đón nhận rất tích cực
+Cách làm lúc đó rất tự nhiên và hiệu quả: Team cố gắng gợi ý user tạo nhóm gia đình vào đúng các dịp Lễ, Tết ngay trong tab Tin nhắn hoặc tab Group (banner). Kết quả rực rỡ: Adoption tạo nhóm gia đình tăng vọt, hầu như ai cũng có ít nhất 1 nhóm gia đình, user đón nhận rất tích cực
 
 ![Window shadow](/assets/img/posts/right_person_right_time_place_right_time/familygroup.jpg){: .shadow width="300" height="500" style="max-width: 90%" }
 
-Thừa thắng xông lên, mình quyết định mở rộng ý tưởng này sang nhóm đối tượng cho Công việc. Cách tiếp cận của mình lúc đó cũng y hệ: Cố gắng detect được mối quan hệ đồng nghiệp (phát hiện các node mở rộng network bất thường trong giờ hành chính, kết bạn liên tục trong thời gian ngắn, ....), sau đó gợi ý cho họ tạo nhóm công việc ngay khi thấy họ có dấu hiệu tham gia 1 công ty mới
+Thừa thắng xông lên, mình quyết định mở rộng ý tưởng này sang nhóm đối tượng cho Công việc. Cách tiếp cận của mình lúc đó cũng y hệt: Cố gắng gợi ý cho họ tạo nhóm công việc ngay khi thấy họ có dấu hiệu tham gia 1 công ty mới (kết bạn liên tục trong thời gian ngắn trong giờ hành chính ....)
 
 ## Bài học: Khi thuật toán đúng nhưng ngữ cảnh sai
 
