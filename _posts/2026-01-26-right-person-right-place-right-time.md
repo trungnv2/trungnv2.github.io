@@ -99,7 +99,7 @@ Bài toán đặt ra cho team Product & Tech lúc đó không chỉ là gửi ti
 
 ### Đúng Người + Đúng Thời điểm + Sai Nơi = KÉM HIỆU QUẢ
 
-User cần tính năng đó, đúng lúc đó, nhưng mình lại giấu nó quá kỹ hoặc để ở một nơi không liên quan. User không thấy (Low Visibility) thì hiệu quả cũng không thể cao được. Ví dụ tính năng 
+User cần tính năng đó, đúng lúc đó, nhưng mình lại giấu nó quá kỹ hoặc để ở một nơi không liên quan. User không thấy (Low Visibility) thì hiệu quả cũng không thể cao được.
 
 ## Kết luận
 
