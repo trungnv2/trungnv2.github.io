@@ -82,6 +82,12 @@ analytics:
   fathom:
     id:
 
+google_analytics:
+  id: 'G-EHY2FB4RKE'     # <--- Khai báo thêm ở đây để phòng hờ
+  pv:
+    proxy_endpoint:
+    cache_path:
+
 # Page views settings
 pageviews:
   provider: # now only supports 'goatcounter'
