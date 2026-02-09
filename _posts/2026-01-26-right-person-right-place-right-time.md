@@ -1,8 +1,8 @@
 ---
-title: Tại sao "Đúng tính năng" là chưa đủ nếu thiếu "Đúng người, đúng nơi và đúng thời điểm"?
+title: 'Tại sao "Đúng tính năng" là chưa đủ nếu thiếu "Đúng người, đúng nơi và đúng thời điểm"?'
 author: Trung Nguyễn
-date: 2026-01-26 19:28:00 +0700
-last modified: 2026-01-30 19:28:00 +0700
+date: 2026-01-30 19:28:00 +0700
+last_modified_at: 2026-01-31 19:28:00 +0700
 categories: [Work, Career, Product Management]
 tags: [career, study, life]
 image:
