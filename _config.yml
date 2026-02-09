@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
   Nơi chia sẻ những trải nghiệm và góc nhìn cá nhân xoay quanh công việc, cuộc sống
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://trung.tech'
+url: "https://trung.tech"
 
 github:
   username: trungnv2             # change to your github username
@@ -70,17 +70,17 @@ analytics:
   google:
     id: 'G-EHY2FB4RKE'
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id:
   umami:
-    id: # fill in your Umami ID
-    domain: # fill in your Umami domain
+    id:
+    domain:
   matomo:
-    id: # fill in your Matomo ID
-    domain: # fill in your Matomo domain
+    id:
+    domain:
   cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
+    id:
   fathom:
-    id: # fill in your Fathom Site ID
+    id:
 
 # Page views settings
 pageviews:
@@ -170,9 +170,6 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
-
-# The base URL of your site
-baseurl: ""
 
 # disqus:
 #   comments: true  # boolean type, the global switch for posts comments.
