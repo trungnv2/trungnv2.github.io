@@ -51,6 +51,16 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
+      - name: Verify Analytics Code
+        run: |
+          # Tìm mã GA trong thư mục _site (kết quả build)
+          if grep -r "G-EHY2FB4RKE" ./_site/; then
+            echo "✅ Analytics code found. Safe to deploy."
+          else
+            echo "❌ CRITICAL ERROR: Analytics code MISSING in production build!"
+            exit 1 # Lệnh này sẽ làm GitHub Action báo đỏ và gửi email cho anh ngay
+          fi
+
       - name: Test site
         run: |
         # bundle exec htmlproofer _site \
