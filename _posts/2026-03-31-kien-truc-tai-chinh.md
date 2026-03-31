@@ -1,12 +1,12 @@
 ---
-title: 'Kiến trúc tài chính: Cách mình dùng 9 tài khoản để quản lý dòng tiền'
+title: 'Kiến trúc tài chính: Cách mình dùng 9 tài khoản để quản lý dòng tiền cá nhân'
 author: Trung Nguyễn
-date: 2026-02-16 17:28:00 +0700
+date: 2026-03-31 17:28:00 +0700
 categories: [Life]
 tags: [life]
 image:
-  path: /assets/img/posts/review_2025/banner.jpeg
-  src: /assets/img/posts/review_2025/banner.jpeg
+  path: /assets/img/posts/kien_truc_tai_chinh/banner.jpg
+  src: /assets/img/posts/kien_truc_tai_chinh/banner.jpg
   width: 500
   height: 500
   alt: Banner minh họa  # (Optional - Dòng này có thể bỏ qua nhưng nên có cho chuẩn SEO) 
