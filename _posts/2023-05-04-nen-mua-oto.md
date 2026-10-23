@@ -1,10 +1,13 @@
 ---
 title: Nên mua ô tô?
-author: Trung Nguyễn
+description: "Tại sao mình chưa mua ô tô? Bắt đầu từ câu hỏi WHY, phân tích giá trị thực sự mang lại và bài toán chi phí trước khi ra một quyết định lớn."
+author: trungnv2
 date: 2023-05-04 21:28:00 +0700
 categories: [Life]
 tags: [life]
 comments: true
+image:
+  path: /assets/img/posts/chuyen_mua_oto/cover.jpg
 ---
 Một câu hỏi mà mình hay được họ hàng, bạn bè hỏi là tại sao mày chưa (không) mua ô tô đi?
 

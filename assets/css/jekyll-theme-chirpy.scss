@@ -1,0 +1,18 @@
+---
+---
+
+/* Override Chirpy fonts: Lato & Source Sans Pro lack full Vietnamese glyphs */
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}',
+  $font-family-base: ('Source Sans 3', 'Source Sans Pro', sans-serif),
+  $font-family-heading: ('Be Vietnam Pro', 'Source Sans 3', sans-serif)
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */

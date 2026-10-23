@@ -1,16 +1,13 @@
 ---
 title: 'Kiến trúc tài chính: Cách mình dùng 9 tài khoản để quản lý dòng tiền cá nhân'
-author: Trung Nguyễn
+description: "Cách mình dùng 9 tài khoản ngân hàng để quản lý dòng tiền gia đình – lấy cảm hứng từ 6 chiếc hũ và tâm lý học về tiền, giúp cởi trói tâm lý chi tiêu."
+author: trungnv2
 date: 2026-03-31 17:28:00 +0700
 categories: [Life]
 tags: [life]
+comments: true
 image:
   path: /assets/img/posts/kien_truc_tai_chinh/banner.jpg
-  src: /assets/img/posts/kien_truc_tai_chinh/banner.jpg
-  width: 500
-  height: 500
-  alt: Banner minh họa  # (Optional - Dòng này có thể bỏ qua nhưng nên có cho chuẩn SEO) 
-comments: true
 ---
 
 Vừa rồi, mình có dịp ngồi cafe với một người bạn về chuyện quản trị chi tiêu gia đình. Hai vợ chồng thu nhập khá ổn, không ăn chơi nhiều, nhưng luôn có cảm giác "hụt tiền" mỗi khi có khoản chi đột xuất, và thỉnh thoảng lại lẹm luôn vào cả tiền tiết kiệm

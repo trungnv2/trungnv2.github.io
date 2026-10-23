@@ -1,13 +1,31 @@
-1. Thêm file vào folder _post/xxxx.md
-2. Edit ngày tháng, content ....
-3. Thêm hình vào folder : assets/img/posts/... -> embed vào bài
-4. Bật sourcetree lên -> commit các file changes -> sau đó refresh web live
+1. Thêm file vào folder _posts/YYYY-MM-DD-ten-bai-viet.md (ngày trong tên file phải đúng định dạng năm-tháng-ngày)
+2. Front matter mẫu (description + image là bắt buộc để trang chủ hiện mô tả và thumbnail):
+
+---
+title: 'Tiêu đề bài viết'
+description: "Tóm tắt 1-2 câu (~150 ký tự), hiển thị dưới tiêu đề ở trang chủ và dùng cho SEO."
+author: trungnv2
+date: 2026-03-31 17:28:00 +0700
+categories: [Life]
+tags: [life]
+comments: true
+image:
+  path: /assets/img/posts/ten_bai_viet/cover.jpg
+---
+
+3. Thêm hình vào folder: assets/img/posts/ten_bai_viet/ -> embed vào bài
+   - Ảnh cover nên tỉ lệ ~1.91:1 (vd 1200x630), dung lượng < 300KB
+   - Nén ảnh trên Mac: sips -Z 1200 -s format jpeg -s formatOptions 80 anh_goc.jpg --out cover.jpg
+4. Bật sourcetree lên -> commit các file changes -> push, GitHub Actions sẽ tự build và deploy
 
 cách khác:
 truy cập github.com, vào project trungnv2.github.io
 sau đó cũng thêm file trực tiếp vào folder, chỉnh sửa... như trên (nhưng không cần qua source tree)
 
-Nếu push local lên bị fail -> push local xong chọn terminal : git push origin master. Hoặc check xem author post bài có phải acc chính chủ : 
+Nếu push local lên bị fail -> push local xong chọn terminal : git push origin master. Hoặc check xem author post bài có phải acc chính chủ :
 username: trungnv2
 email: legendstar177@gmail.com
 
+Chạy thử local (cần Ruby >= 3.1):
+bundle install
+bundle exec jekyll s

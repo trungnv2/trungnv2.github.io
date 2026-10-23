@@ -1,10 +1,13 @@
 ---
 title: Nghịch lý Theseus & câu chuyện về bản sắc sản phẩm
-author: Trung Nguyễn
+description: "Từ nghịch lý con tàu Theseus đến bản sắc sản phẩm: làm sao liên tục đổi mới mà vẫn giữ được giá trị cốt lõi, qua câu chuyện Zalo và Telegram."
+author: trungnv2
 date: 2025-09-28 19:28:00 +0700
 categories: [Work, Career, Product Management]
 tags: [career, study, life]
 comments: true
+image:
+  path: /assets/img/posts/con_tau_theseus/theseus.jpg
 ---
 TLDR: **Bản sắc sản phẩm là hệ quả của việc giá trị cốt lõi sản phẩm được theo đuổi một cách liên tục & nhất quán theo thời gian**
 
