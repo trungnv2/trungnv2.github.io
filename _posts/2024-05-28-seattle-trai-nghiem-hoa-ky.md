@@ -1,10 +1,13 @@
 ---
 title: Seattle thành phố cảng - Trải nghiệm đặt chân lên xứ cờ Hoa
-author: Trung Nguyễn
+description: "Ghi chép sau chuyến đi Seattle: dịch vụ công vận hành trên sự tự giác, gặp gỡ các công ty công nghệ, sự kiện Microsoft Build và những trải nghiệm cá nhân."
+author: trungnv2
 date: 2024-05-28 21:28:00 +0700
 categories: [Life]
 tags: [life]
 comments: true
+image:
+  path: /assets/img/posts/seattle/cover.jpg
 ---
 
 Về nước được hơn 3 ngày mà vẫn chưa hết jetlag, giờ mình mới có thời gian ngồi reflect lại trải nghiệm chuyến đi vừa rồi

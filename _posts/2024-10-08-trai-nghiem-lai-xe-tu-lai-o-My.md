@@ -1,10 +1,13 @@
 ---
 title: Trải nghiệm lái xe tự lái ở Mỹ
-author: Trung Nguyễn
+description: "Kinh nghiệm thuê xe tự lái ở Mỹ: bằng lái, chọn hãng thuê, cao tốc, phí đường, biển STOP, đỗ xe, đổ xăng và 10 fun fact thú vị."
+author: trungnv2
 date: 2024-10-08 21:28:00 +0700
 categories: [Life]
 tags: [life]
 comments: true
+image:
+  path: /assets/img/posts/trai_nghiem_lai_xe_o_US/cover.jpg
 ---
 
 Tháng 5/2024 vừa rồi thì Trung có cơ hội được qua Mỹ tham dự event Microsoft Build cùng anh Khải (chủ tịch Zalo) cùng 1 số thành viên khác. Chuyến đi có rất nhiều trải nghiệm mới đối với mình, đặc biệt là kinh nghiệm lái xe tự túc lại Mỹ, nên mình cũng muốn chia sẻ lại về trải nghiệm này. 

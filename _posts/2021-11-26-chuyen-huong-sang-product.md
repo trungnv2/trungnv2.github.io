@@ -1,14 +1,13 @@
 ---
 title: Mình đã chuyển hướng từ Software Engineer sang Product Manager như thế nào?
-author: Trung Nguyễn
+description: "Hành trình từ Software Engineer sang Product Manager: lý do mình rẽ hướng, những khó khăn của một \"tech guy\" về kiến thức, mindset và cách mình đã vượt qua."
+author: trungnv2
 date: 2021-11-26 19:28:00 +0700
 categories: [Work, Career]
 tags: [career, work]
 comments: true
-image: /assets/img/posts/se_move_pm/cover.jpeg
-  # src: /assets/img/posts/se_move_pm/cover.jpeg
-  # width: 800
-  # height: 500
+image:
+  path: /assets/img/posts/se_move_pm/cover.jpeg
 ---
 ## Những ngã rẽ
 

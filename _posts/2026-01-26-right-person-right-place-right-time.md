@@ -1,17 +1,14 @@
 ---
 title: 'Tại sao "Đúng tính năng" là chưa đủ nếu thiếu "Đúng người, đúng nơi và đúng thời điểm"?'
-author: Trung Nguyễn
+description: "Một bài học \"fail\" về Product Context: tính năng đúng chưa đủ, phải đúng người, đúng nơi và đúng thời điểm – thiếu một yếu tố là thành spam, gây phiền hay kém hiệu quả."
+author: trungnv2
 date: 2026-01-30 19:28:00 +0700
 last_modified_at: 2026-01-31 19:28:00 +0700
 categories: [Work, Career, Product Management]
 tags: [career, study, life]
+comments: true
 image:
   path: /assets/img/posts/right_person_right_time_place_right_time/banner.png
-  src: /assets/img/posts/right_person_right_time_place_right_time/banner.png
-  width: 500
-  height: 500
-  alt: Banner minh họa  # (Optional - Dòng này có thể bỏ qua nhưng nên có cho chuẩn SEO) 
-comments: true
 ---
 
 Vừa rồi mình có dịp đón tiếp một nhóm các bạn intern người Singapore từ NTU ghé thăm VNG Campus để tìm hiểu về cách làm Product tại Việt Nam. May mắn là buổi chia sẻ không chỉ dừng lại ở xã giao, mà mình cũng truyền được ít nhiều cảm hứng cho các bạn về định hướng nghề nghiệp, cũng như giải đáp một số trăn trở thực tế của những người trẻ mới bước chân vào ngành

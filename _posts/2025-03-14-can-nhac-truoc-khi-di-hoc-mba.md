@@ -1,14 +1,13 @@
 ---
 title: Những cân nhắc trước khi đi học MBA
-author: Trung Nguyễn
+description: "Đi học MBA để được gì, cần chuẩn bị gì về gia đình, công việc, chương trình học – và góc nhìn thực tế sau khi đã hoàn thành MBA."
+author: trungnv2
 date: 2025-03-18 19:28:00 +0700
 categories: [Work, Career]
 tags: [career, study, life]
 comments: true
 image:
-  src: /assets/img/posts/can_nhac_before_mba/cover.jpeg
-  width: 400
-  height: 250
+  path: /assets/img/posts/can_nhac_before_mba/cover.jpeg
 ---
 Tuần trước, ZYLO (Zalo Young Leaders Organization) tổ chức một buổi chia sẻ về Xây dựng Thương hiệu Cá nhân, dựa trên cuốn sách Me 2.0 của Dan Schawbel. Một ý rất hay được đề cập: Đầu tư vào các mối quan hệ, tăng cường tương tác trên mạng xã hội, và viết blog thường xuyên, ngay cả khi bạn **KHÔNG** cần tìm việc. Mình ngẫm lại thấy điều này rất hợp lý.
 
