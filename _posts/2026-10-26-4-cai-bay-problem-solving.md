@@ -1,8 +1,8 @@
 ---
 title: '4 cái bẫy Problem Solving phổ biến của PM trẻ'
 description: "Đừng nhầm lẫn giữa giải pháp user đòi hỏi và vấn đề họ thực sự gặp phải. Bài viết đúc kết 4 cạm bẫy tư duy từ các case study thực tế khi xây dựng sản phẩm"
-author: Trung Nguyễn
-date: 2026-10-26 21:28:00 +0700
+author: trungnv2
+date: 2026-10-27 21:28:00 +0700
 categories: [Work, Product Management]
 tags: [product-management, problem-solving, product-mindset, zalo]
 comments: true
